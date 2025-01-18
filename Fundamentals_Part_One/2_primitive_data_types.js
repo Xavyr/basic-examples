@@ -7,3 +7,5 @@
 // Challenge 3: Declare a constant `loveCoding` that is a boolean, and set it equal to true.
 
 // Challenge 4: Declare a variable `programmingHesitations` and set it's value to null
+
+console.log('changed this file too.')
